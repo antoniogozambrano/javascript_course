@@ -1,2 +1,1 @@
-# javascript_course
-Curso de javascript
+Antonio Gómez y este es un repo que quiero entrenar 
